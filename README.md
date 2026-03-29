@@ -2,6 +2,8 @@
 
 Chord Flow is a chainable MIDI FX module for Schwung that lets you play and combine chords for better chord progressions. Browse banks of chord presets, play pads to trigger chords, and edit/save full pad sets. 
 
+This module is used with an empty Drum kit template on Ableton Move.
+
 ## New features
 - Add custom preset chords to midi/ folder by uploading a midi file with a chord which will appear at the end of the listed chord types as C01, C02, etc.
 - Now with 256 presets
